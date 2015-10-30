@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DocTube</string>
+
+    <!-- Tab labels -->
+    <string name="hot_listings">HOT</string>
+    <string name="new_listings">NEW</string>
+    <string name="top_listings_today">TOP</string>
+    <string name="top_listings_week">TOP WEEK</string>
+    <string name="top_listings_month">TOP MONTH</string>
+    <string name="top_listings_year">TOP YEAR</string>
+    <string name="top_listings_alltime">TOP ALL</string>
+
+    <!-- ImageView content description -->
+    <string name="content_description">Thumbnail image for documentary</string>
+</resources>

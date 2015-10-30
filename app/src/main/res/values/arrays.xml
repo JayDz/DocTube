@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_names">
+        <item>@string/hot_listings</item>
+        <item>@string/new_listings</item>
+        <item>@string/top_listings_today</item>
+        <item>@string/top_listings_week</item>
+        <item>@string/top_listings_month</item>
+        <item>@string/top_listings_year</item>
+        <item>@string/top_listings_alltime</item>
+    </string-array>
+</resources>
