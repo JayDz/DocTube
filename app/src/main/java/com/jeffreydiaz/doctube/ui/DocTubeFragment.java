@@ -41,7 +41,6 @@ public abstract class DocTubeFragment extends Fragment {
 	private static final int TOP_MONTH_LISTINGS = 4;
 	private static final int TOP_YEAR_LISTINGS = 5;
 	private static final int TOP_ALLTIME_LISTINGS = 6;
-	private static final int ID_LENGTH = 11;
 
 	private ListView listView;
 	private SwipeRefreshLayout swipeRefreshLayout;
